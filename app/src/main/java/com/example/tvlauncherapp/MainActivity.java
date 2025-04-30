@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     packageName.equals(getPackageName()) || // TVLauncherApp
                     packageName.equals("com.google.android.youtube.tv") ||
                     packageName.equals("com.netflix.ninja")) {
-           s     appsList.add(app);
+                appsList.add(app);
             }
         }
 
