@@ -6,7 +6,7 @@ Bu loyiha Android TV uchun maxsus ishlab chiqilgan Launcher ilovadir. Foydalanuv
 
 ## APK fayl
 
-> To'liq ishlaydigan `.apk` fayl `/app/release/app-debug.apk` manzilda joylashgan.
+> To'liq ishlaydigan `.apk` fayl `/app/release/app-release.apk` manzilda joylashgan.
 
 ---
 
